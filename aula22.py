@@ -1,7 +1,7 @@
 # Operadores logicos
 # and (e), or (ou), not (nao)
-# and - Todas as condcioes precisam ser verdadeiras.
-# Se qualquer valor for considerado falso, 
+# or - Qualquer condicao verdadeira avalia toda a expressao como True.
+# Se qualquer valor for considerado verdadeiro, 
 # a expressao inteira sera avaliada naquele valor.
 # Sao considerados falsy = 0    0.0    ''    False
 # Tambem existe o tipo None que é usado para representar um nao valor.
