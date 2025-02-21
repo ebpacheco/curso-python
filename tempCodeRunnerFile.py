@@ -1,1 +1,2 @@
-5
+else:
+#     print('Nao passou da velocidade')
