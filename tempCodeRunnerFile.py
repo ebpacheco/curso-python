@@ -1,1 +1,2 @@
-letra_secreta
+print(salas)
+# print(*salas)
