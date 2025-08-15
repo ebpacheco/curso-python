@@ -1,2 +1,1 @@
-print(salas)
-# print(*salas)
+21
