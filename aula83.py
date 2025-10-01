@@ -30,11 +30,9 @@ for pergunta in perguntas:
         print('Voce acertou')
         print()
         contador+=1
-        continue
     else:
         print('Voce errou')
         print()
-        continue
 print('Voce acertou um total de:', contador )
 
 
