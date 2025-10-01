@@ -23,12 +23,19 @@ s1 = {'Eduardo', 1, 2, 3}  # com dados
 
 l1 = [1,2,3,3,3,3,1]
 s1 = set(l1)
-print(s1)
-print(3 in s1)
-print(3 not in s1)
+# print(s1)
+# print(3 in s1)
+# print(3 not in s1)
 
 # Métodos úteis:
 # add, update, clear, discard
+s1 = set()
+s1.add('Eduardo')
+s1.add(1)
+s1.update((1,2,3,'Pacheco'))
+# s1.clear()
+s1.discard(1)
+print(s1)
 
 # Operadores úteis:
 # união | união (union) - Une
