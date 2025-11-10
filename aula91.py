@@ -1,6 +1,4 @@
-# Introdução à List comprehension em Python
-# List comprehension é uma forma rápida para criar listas
-# a partir de iteráveis.
+# Mapeamento de dados em list comprehension
 
 produtos = [
     {'nome': 'p1', 'preco': 20,},
